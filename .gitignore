@@ -5,7 +5,8 @@
 /.pnp
 .pnp.js
 
-sanityYoutube/node_modules
+sanity-medium/node_modules
+sanity-medium
 
 # testing
 /coverage
